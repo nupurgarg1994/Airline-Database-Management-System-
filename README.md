@@ -1,2 +1,1 @@
-# Airline-Database-Management-System-
-SQL,PL/SQL
+# Created an Airline-Database-Management-System using SQL
